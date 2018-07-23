@@ -85,5 +85,7 @@
     "tinymce": "^4.1.7",
     "urijs": "^1.16.1"
   },
-  "engine": "node < 7.0.0"
+  "engine": { 
+    "node" : "<7.0.0"
+  }
 }
